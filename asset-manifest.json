@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-apollo-poc/static/css/main.56c7eab6.chunk.css",
+    "main.js": "/react-apollo-poc/static/js/main.5c38ad65.chunk.js",
+    "main.js.map": "/react-apollo-poc/static/js/main.5c38ad65.chunk.js.map",
+    "runtime~main.js": "/react-apollo-poc/static/js/runtime~main.5df336de.js",
+    "runtime~main.js.map": "/react-apollo-poc/static/js/runtime~main.5df336de.js.map",
+    "static/js/2.2ff19c3f.chunk.js": "/react-apollo-poc/static/js/2.2ff19c3f.chunk.js",
+    "static/js/2.2ff19c3f.chunk.js.map": "/react-apollo-poc/static/js/2.2ff19c3f.chunk.js.map",
+    "index.html": "/react-apollo-poc/index.html",
+    "precache-manifest.75687972007cffad81327f917c7cede8.js": "/react-apollo-poc/precache-manifest.75687972007cffad81327f917c7cede8.js",
+    "service-worker.js": "/react-apollo-poc/service-worker.js",
+    "static/css/main.56c7eab6.chunk.css.map": "/react-apollo-poc/static/css/main.56c7eab6.chunk.css.map"
+  }
+}
