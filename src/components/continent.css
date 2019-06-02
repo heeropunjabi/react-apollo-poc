@@ -1,0 +1,16 @@
+.continent {
+  color: white;
+  background: #0F9D58;
+  height: 500px;
+  overflow-y: scroll;
+  margin-top: 11%;
+  width: 600px;
+}
+li {
+  text-align: left;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 17px;
+}
+ul {
+  padding-left: 20%;
+}
