@@ -12,7 +12,7 @@ export default class Continent extends React.PureComponent {
         {
 
           continent.countries.map((country) => {
-            return <Country country={country} />
+            return <Country country={country} key={country.code} />
           })
         }
 
